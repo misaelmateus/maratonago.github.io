@@ -54,6 +54,6 @@ Pense em um problema mais fácil, onde todos elementos são marcados, nesse caso
 Uma adaptação a esse problema criar um vetor apenas com os elementos marcados. Pra cada elemento marcado armazenar também a soma máxima terminando nesse elemento e iniciando nesse elemento, considerando apenas elementos não marcados, armazenar também a soma de todos elementos não marcados entre cada dois elementos marcados.
 
 Assim pode-se testar, pra cada dois elementos no novo vetor com distancia no máximo H e no minimo L, qual a melhor soma entre eles, que será a soma máxima terminando no primeiro elemento, a soma entre cada dois elementos, e a soma máxima terminando no último elemento.
-[busca-em-profundidade]:
-http://www.codcad.com/lesson/38
+
+[busca-em-profundidade]: http://www.codcad.com/lesson/38
 [fila-cpp]: http://www.cplusplus.com/reference/queue/queue
